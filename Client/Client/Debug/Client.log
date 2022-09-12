@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\berim\Desktop\Прога\Client\Client\client.cpp(28,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Client.vcxproj -> C:\Users\berim\Desktop\Прога\Client\Debug\Client.exe

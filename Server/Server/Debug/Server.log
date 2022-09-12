@@ -1,0 +1,2 @@
+﻿server.obj : error LNK2005: _main уже определен в ser_tcp_select.obj
+C:\Users\berim\Desktop\Прога\Server\Debug\Server.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

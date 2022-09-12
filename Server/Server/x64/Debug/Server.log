@@ -1,0 +1,8 @@
+﻿  server.cpp
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(26,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(154,15): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(187,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(188,27): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(192,23): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\berim\Desktop\Прога\Server\Server\server.cpp(100): warning C4715: field::shot: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\berim\Desktop\Прога\Server\x64\Debug\Server.exe
